@@ -58,7 +58,7 @@
     "preact-router": "^2.5.2",
     "twilio": "^3.5.0-alpha.1",
     "twilio-common": "^0.1.6",
-    "twilio-sync": "^0.5.8",
+    "twilio-sync": "^0.13.0",
     "url-join": "^2.0.2"
   }
 }
