@@ -44,7 +44,7 @@
     "classnames": "^2.2.5",
     "dompurify": "^0.9.0",
     "event-emitter": "^0.3.5",
-    "express": "^4.15.3",
+    "express": "^4.21.2",
     "express-pino-logger": "^2.0.0",
     "if-env": "^1.0.0",
     "lodash.template": "^4.4.0",
